@@ -1,3 +1,9 @@
+---
+name: examples
+description: >
+  A reference for the voice, depth, and the full→redacted transform. This is intentionally short; real outputs follow the full templates. - An n8n workflow export (JSON) showing HubSpot → Clay → HubSpot. Use this skill when working with examples tasks or workflows.
+---
+
 # Worked Example — full vs redacted (abbreviated)
 
 A reference for the voice, depth, and the full→redacted transform. This is intentionally
